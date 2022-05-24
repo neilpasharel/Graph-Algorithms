@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Adjacency_List_Graph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked_List.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Adjacency_Matrix_Graph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Edges_List.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Abstract_Graph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Longs_Matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Doubly_Linked_List.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_Map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Priority_Queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_Transpose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Union_Find.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_Traversal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_Aux.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_User_Interactive.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum_Spanning_Tree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Single_Source_Shortest_Path.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="All_Pairs_Shortest_Path.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Linked_List.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Adjacency_List_Graph.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Adjacency_Matrix_Graph.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Edges_List.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Abstract_Graph.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Longs_Matrix.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Doubly_Linked_List.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hash_Map.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Priority_Queue.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_Transpose.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Union_Find.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_Traversal.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_Aux.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_User_Interactive.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Minimum_Spanning_Tree.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Single_Source_Shortest_Path.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="All_Pairs_Shortest_Path.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
